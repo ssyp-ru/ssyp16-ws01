@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="no_color_for_all_your_needs_when_you_have_not_to_color_something">#33000000</color>
+    <color name="jedi_team">#1616FF</color>
+    <color name="sith_team">#FF1616</color>
+</resources>

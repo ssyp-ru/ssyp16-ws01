@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheForceAsleep</string>
+    <string name="sith">Sith</string>
+    <string name="jedi">Jedi</string>
+
+    <string name="title_activity_map">MapActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="change_team_button">Change team</string>
+    <string name="ready_field">Ready</string>
+    <string name="chat_field">Chat</string>
+    <string name="vs_string">VS</string>
+    <string name="ok">OK</string>
+</resources>
